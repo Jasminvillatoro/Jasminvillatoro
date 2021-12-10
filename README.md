@@ -6,5 +6,5 @@
 
 Email: JasminVilla321@gmail.com
 
-Feel free to take a look at my projects.
+Feel free to take a look at my projects. 
 
