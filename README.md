@@ -1,4 +1,4 @@
- <h1 align="center">Hi 🌸, I'm Jasmin Villatoro</h1>
+ <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
 <h3 align="center">I'm a Frontend Web Developer. I've created multiple User Interface projects with HTML, CSS, JavaScript, and ReactJS. I also have experience working in a Software Development team environment.</h3>
 
 - 🔭 I’m currently working on **Dine Restaurant Website**
