@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jasminvilla321@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!Ag_0rNZ4vXgQ1zcy6YVgbIhiI2pz](https://1drv.ms/w/s!Ag_0rNZ4vXgQ1zcy6YVgbIhiI2pz)
+- 📄Check out my RESUME [https://1drv.ms/w/s!Ag_0rNZ4vXgQ1zcy6YVgbIhiI2pz](https://1drv.ms/w/s!Ag_0rNZ4vXgQ1zcy6YVgbIhiI2pz)
 
 - ⚡ Hobbies **Anime,books,and nature**
 
