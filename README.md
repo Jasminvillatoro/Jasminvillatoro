@@ -11,7 +11,7 @@
 
 - 📄Here's my RESUME [https://1drv.ms/w/s!Ag_0rNZ4vXgQ2zJt-nCm-WNozqY6](https://1drv.ms/w/s!Ag_0rNZ4vXgQ2zJt-nCm-WNozqY6)
 
-- ⚡ Hobbies **Anime,Books, Programming and Nature**
+- ⚡ Hobbies **Anime,Books, Programming, and Nature**
 
  
 <p align="left">
