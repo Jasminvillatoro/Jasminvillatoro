@@ -1,11 +1,11 @@
  <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
 <h3 align="center">I'm a Frontend Web Developer. I've created multiple User Interface projects with HTML, CSS, JavaScript, and ReactJS. I also have experience working in a Software Development team environment.</h3>
 
-- 🔭 I’m currently learning on **PYTHON**
+- 👩🏻‍💻I’m currently learning **PYTHON**🐍
 
 - ✅ Recently finished [GitHub User Search App](https://github-user-search-app012.netlify.app/)
 
-- 👨‍💻 My best projects are on my portfolio check it out! [https://www.jasminvillatoroportfolio.com/](https://www.jasminvillatoroportfolio.com/)
+- 👀 My best projects are on my portfolio check it out! [PORTFOLIO](https://www.jasminvillatoroportfolio.com/)
 
 - 📫 How to reach me **jasminvilla321@gmail.com**
 
