@@ -1,7 +1,7 @@
  <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
 <h3 align="center">I'm a Frontend Web Developer. I've created multiple User Interface projects with HTML, CSS, JavaScript, and ReactJS. I also have experience working in a Software Development team environment.</h3>
 
-- 🔭 I’m currently working on **Dine Restaurant Website**
+- 🔭 I’m currently learning on **PYTHON**
 
 - ✅ Recently finished [GitHub User Search App](https://github-user-search-app012.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 📄Here's my RESUME [https://1drv.ms/w/s!Ag_0rNZ4vXgQ2zJt-nCm-WNozqY6](https://1drv.ms/w/s!Ag_0rNZ4vXgQ2zJt-nCm-WNozqY6)
 
-- ⚡ Hobbies **Anime,books,and nature**
+- ⚡ Hobbies **Anime,Books, Programming and Nature**
 
  
 <p align="left">
