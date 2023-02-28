@@ -1,5 +1,5 @@
  <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
-<h4 align="center">Frontend Developer with an eagerness to grow and expand abilities. I have experience working with an agile development team and completing software application issues. I have developed various UI projects using  REST APIs and transformed Figma designs into code</h4>
+<h4 align="center">Frontend Developer with an eagerness to grow and expand abilities. I have experience working with an agile development team and completing software application issues. I have developed various UI projects using  REST APIs and transformed Figma designs into code.</h4>
 
 - 👩🏻‍💻I’m currently taking **ZTM Data Structures + Algorithms Course**
 
