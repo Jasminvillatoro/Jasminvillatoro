@@ -1,7 +1,7 @@
  <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
-<h3 align="center">I'm a Frontend Web Developer. I've created multiple User Interface projects with HTML, CSS, JavaScript, and ReactJS. I also have experience working in a Software Development team environment.</h3>
+<h3 align="center">Frontend Developer with an eagerness to grow and expand abilities. I have experience working with an agile development team and completing software application issues. I have developed various UI projects using  REST APIs and transformed Figma designs into code</h3>
 
-- 👩🏻‍💻I’m currently learning **PYTHON**🐍
+- 👩🏻‍💻I’m currently taking **ZTM Data Structures + Algorithms Course**
 
 - ✅ Recently finished [GitHub User Search App](https://github-user-search-app012.netlify.app/)
 
