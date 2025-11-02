@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻I’m currently taking **Builing Space Tourism**
 
-- ✅ Recently finished [GitHub User Search App](https://space-tourism-wheat.vercel.app/)
+- ✅ Recently finished [Space Tourism Website](https://space-tourism-wheat.vercel.app/)
 
 - 👀 My best projects are on my portfolio check it out! [PORTFOLIO](https://www.jasminvillatoroportfolio.com/)
 
