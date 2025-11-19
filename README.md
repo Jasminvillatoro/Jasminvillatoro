@@ -1,7 +1,6 @@
  <h1 align="center">Hello! I'm Jasmin Villatoro🌸</h1>
 <h4 align="center">Frontend Developer with an eagerness to grow and expand abilities. I have experience working with an agile development team and completing software application issues. I have developed various UI projects using  REST APIs and transformed Figma designs into code.</h4>
 
-- 👩🏻‍💻I’m currently taking **Builing Space Tourism**
 
 - ✅ Recently finished [Space Tourism Website](https://space-tourism-wheat.vercel.app/)
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **jasminvilla321@gmail.com**
 
-- 📄Here's my RESUME [JasminVillatoroFrontend](https://docs.google.com/document/d/1bnbfC7mkBUTRnlRDVE0YbV4JQwI3nSRnETSbLDYyt6Y/edit?usp=sharing)  
+- 📄RESUME [JasminVillatoro_01](https://docs.google.com/document/d/1bnbfC7mkBUTRnlRDVE0YbV4JQwI3nSRnETSbLDYyt6Y/edit?usp=sharing)  
 
 - ⚡ Hobbies **Anime,Books, Programming, and Nature**
 
